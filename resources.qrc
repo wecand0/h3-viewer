@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/H3VIEWER">
+        <file>ui/main.qml</file>
+        <file>ui/H3map.qml</file>
+
+        <file>data/style.json</file>
+
+    </qresource>
+</RCC>
